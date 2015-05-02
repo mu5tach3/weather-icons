@@ -17,6 +17,8 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="Zeichnung.svg"
    style="enable-background:new">
+  <title
+     id="title4591">weather icons</title>
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.03125"
-     inkscape:cx="10657.513"
-     inkscape:cy="-854.88668"
+     inkscape:zoom="4"
+     inkscape:cx="9221.3694"
+     inkscape:cy="2112.461"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -40,7 +42,7 @@
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:snap-midpoints="true"
      inkscape:object-nodes="true"
      inkscape:snap-intersection-paths="true"
@@ -65,8 +67,48 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>weather icons</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:date>01.05.2015</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Thore Rathsack</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>cc</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Thore Rathsack</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:source>selfmade</dc:source>
+        <dc:language>none</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>weather</rdf:li>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>icons</rdf:li>
+            <rdf:li>cloud</rdf:li>
+            <rdf:li>sund</rdf:li>
+            <rdf:li>strom</rdf:li>
+            <rdf:li>sno</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -1026,7 +1068,7 @@
            d="m -1271.2192,496.42024 a 48.445867,48.445867 0 0 0 48.4458,48.44587 48.445867,48.445867 0 0 0 48.4459,-48.44587 48.445867,48.445867 0 0 0 -48.4459,-48.44587"
            style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:6.25;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <path
-           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:6.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:6.25000075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m -1222.7734,447.97437 -266.9514,0"
            id="path8014"
            inkscape:connector-curvature="0" />
@@ -2264,7 +2306,7 @@
          transform="translate(-2980.8318,-1811.409)"
          id="g6845-04">
         <path
-           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4.35768223;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:6.25000075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m -1344.0769,472.31882 -129.7727,0"
            id="path6790-6-93"
            inkscape:connector-curvature="0" />
